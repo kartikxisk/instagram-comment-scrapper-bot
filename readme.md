@@ -14,7 +14,7 @@ This project is a GUI-based Instagram comment scraper bot that extracts comments
 ## Requirements
 
 The project requires the following Python libraries:
-
+- `Python 3.9.13` 
 - `instaloader`
 - `pandas`
 - `openpyxl`
