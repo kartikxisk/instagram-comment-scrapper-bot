@@ -33,5 +33,5 @@ pip install -r requirements.txt
 Build Command
 
 ```bash
-pyinstaller --noconfirm --onefile --windowed --name "InstagramCommentScraper" main.py
+pyinstaller --noconfirm --onefile --windowed --name "InstagramCommentScraper" scrapper_gui.py
 ```
