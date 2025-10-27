@@ -1,2 +1,4 @@
 myenv
 build
+__pycache__
+data

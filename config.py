@@ -1,9 +1,9 @@
 session_data = {
-    "csrftoken": "k33ROSt37VePSKY8hmugcGZpUNj08xnj",
-    "sessionid": "61920497388%3A4ODmPJC2EyGYAs%3A15%3AAYf8WLd_i9jDwEDJJ0y9YdYEC8kVvxIJefTv5bIxmg",
+    "csrftoken": "8SZDWJjAE2YkDLX1ep6VwA",
+    "sessionid": "61920497388%3A4XxmUgqpmGU3k5%3A8%3AAYiiM9HbRhtmUyM2Lmxp3cCybnQuQeXgVGPllhlQ5A",
     "ds_user_id": "61920497388",
-    "mid": "Z6JT6QALAAHkfVZt-NHCo-WS1Lkj",
-    "ig_did": "7ABFD76C-E434-4986-9199-9FE8DCB7FEFB"
+    "mid": "aP-WBwALAAEGfVR7K5Kk57s4mH76",
+    "ig_did": "CD94CB1E-79A1-4155-BA88-62E8177184EF"
 }
 
 
